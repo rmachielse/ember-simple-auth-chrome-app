@@ -1,12 +1,15 @@
 {
   "name": "ember-simple-auth-chrome-app",
   "dependencies": {
-    "ember": "~2.3.1",
-    "ember-cli-shims": "0.1.0",
-    "ember-cli-test-loader": "ember-cli/ember-cli-test-loader#0.2.2",
-    "mocha": "~2.2.4",
-    "chai": "~2.3.0",
+    "ember": "~2.7.1",
+    "ember-cli-shims": "~0.1.3",
+    "mocha": "~3.0.2",
+    "chai": "~3.5.0",
     "ember-mocha-adapter": "~0.3.1",
-    "ember-mocha": "~0.8.8"
+    "ember-mocha": "~0.8.11"
+  },
+  "resolutions": {
+    "chai": "~3.5.0",
+    "mocha": "~3.0.2"
   }
 }

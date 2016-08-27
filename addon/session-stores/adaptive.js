@@ -49,5 +49,5 @@ export default Adaptive.extend({
     } else {
       this._super(...arguments);
     }
-  },
+  }
 });
