@@ -1,7 +1,7 @@
 {
   "name": "ember-simple-auth-chrome-app",
   "version": "0.1.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "An ember-simple-auth session-store for Chrome apps",
   "keywords": [
     "ember-addon"
   ],
