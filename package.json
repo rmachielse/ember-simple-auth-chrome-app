@@ -1,6 +1,6 @@
 {
   "name": "ember-simple-auth-chrome-app",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "An ember-simple-auth session-store for Chrome apps",
   "keywords": [
     "ember-addon"
